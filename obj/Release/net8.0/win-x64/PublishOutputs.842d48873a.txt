@@ -1,0 +1,12 @@
+C:\publish\webapp\webapp.exe
+C:\publish\webapp\publish\web.config
+C:\publish\webapp\appsettings.Development.json
+C:\publish\webapp\appsettings.json
+C:\publish\webapp\publish\appsettings.Development.json
+C:\publish\webapp\publish\appsettings.json
+C:\publish\webapp\publish\webapp.deps.json
+C:\publish\webapp\publish\webapp.runtimeconfig.json
+C:\publish\webapp\webapp.dll
+C:\publish\webapp\webapp.deps.json
+C:\publish\webapp\webapp.runtimeconfig.json
+C:\publish\webapp\webapp.pdb

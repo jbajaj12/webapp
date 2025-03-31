@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "G/gD76r5uYQ3KpdH7XSCkQPrij74pdviymrSPN+WuvI=",
+  "Source": "webapp",
+  "BasePath": "_content/webapp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
